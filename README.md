@@ -2,6 +2,8 @@
 
 Welcome to Comm-App, an innovative mobile application that opens the door to a world of multilingual communication and seamless language translation. With the power of Firebase ML Kit, this app empowers users to effortlessly translate text into various languages, and even provides the convenience of translating speech into text for smooth communication.
 
+![Screenshot 2023-07-20 195513](https://github.com/Danish1875/Comm-App/assets/111090637/d846df31-790a-47b2-ae88-79d388316de0)
+
 ## Features
 - Easy Language Translation: Translate text from one language to another with just a few taps.
 - Multilingual Support: Choose from a wide array of languages to translate your text into.
